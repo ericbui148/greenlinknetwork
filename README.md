@@ -1,55 +1,55 @@
 <div align="center">
-  <a href="https://ton.org">
+  <a href="https://GREENLINK.org">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://ton.org/download/ton_logo_dark_background.svg">
-      <img alt="TON logo" src="https://ton.org/download/ton_logo_light_background.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://GREENLINK.org/download/GREENLINK_logo_dark_background.svg">
+      <img alt="GREENLINK logo" src="https://GREENLINK.org/download/GREENLINK_logo_light_background.svg">
     </picture>
   </a>
-  <h3>Reference implementation of TON Node and tools</h3>
+  <h3>Reference implementation of GREENLINK Node and tools</h3>
   <hr/>
 </div>
 
 ## 
 
 <p align="center">
-  <a href="https://tonresear.ch">
-    <img src="https://img.shields.io/badge/TON%20Research-0098EA?style=flat&logo=discourse&label=Forum&labelColor=gray" alt="Ton Research">
+  <a href="https://GREENLINKresear.ch">
+    <img src="https://img.shields.io/badge/GREENLINK%20Research-0098EA?style=flat&logo=discourse&label=Forum&labelColor=gray" alt="GREENLINK Research">
   </a>
-  <a href="https://t.me/toncoin">
-    <img src="https://img.shields.io/badge/TON%20Community-0098EA?logo=telegram&logoColor=white&style=flat" alt="Telegram Community Group">
+  <a href="https://t.me/GREENLINKcoin">
+    <img src="https://img.shields.io/badge/GREENLINK%20Community-0098EA?logo=telegram&logoColor=white&style=flat" alt="Telegram Community Group">
   </a>
-  <a href="https://t.me/tonblockchain">
-    <img src="https://img.shields.io/badge/TON%20Foundation-0098EA?logo=telegram&logoColor=white&style=flat" alt="Telegram Foundation Group">
+  <a href="https://t.me/GREENLINKblockchain">
+    <img src="https://img.shields.io/badge/GREENLINK%20Foundation-0098EA?logo=telegram&logoColor=white&style=flat" alt="Telegram Foundation Group">
   </a>
-  <a href="https://t.me/tondev_eng">
-    <img src="https://img.shields.io/badge/chat-TONDev-0098EA?logo=telegram&logoColor=white&style=flat" alt="Telegram Community Chat">
+  <a href="https://t.me/GREENLINKdev_eng">
+    <img src="https://img.shields.io/badge/chat-GREENLINKDev-0098EA?logo=telegram&logoColor=white&style=flat" alt="Telegram Community Chat">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/ton_blockchain">
-    <img src="https://img.shields.io/twitter/follow/ton_blockchain" alt="Twitter Group">
+  <a href="https://twitter.com/GREENLINK_blockchain">
+    <img src="https://img.shields.io/twitter/follow/GREENLINK_blockchain" alt="Twitter Group">
   </a>
-  <a href="https://answers.ton.org">
-    <img src="https://img.shields.io/badge/-TON%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="TON Overflow Group">
+  <a href="https://answers.GREENLINK.org">
+    <img src="https://img.shields.io/badge/-GREENLINK%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="GREENLINK Overflow Group">
   </a>
-  <a href="https://stackoverflow.com/questions/tagged/ton">
+  <a href="https://stackoverflow.com/questions/tagged/GREENLINK">
     <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="Stack Overflow Group">
   </a>
 </p>
 
 
 
-Main TON monorepo, which includes the code of the node/validator, lite-client, tonlib, FunC compiler, etc.
+Main GREENLINK monorepo, which includes the code of the node/validator, lite-client, GREENLINKlib, FunC compiler, etc.
 
 ## The Open Network
 
-__The Open Network (TON)__ is a fast, secure, scalable blockchain focused on handling _millions of transactions per second_ (TPS) with the goal of reaching hundreds of millions of blockchain users.
-- To learn more about different aspects of TON blockchain and its underlying ecosystem check [documentation](https://ton.org/docs)
-- To run node, validator or lite-server check [Participate section](https://ton.org/docs/participate/nodes/run-node)
-- To develop decentralised apps check [Tutorials](https://docs.ton.org/v3/guidelines/smart-contracts/guidelines), [FunC docs](https://ton.org/docs/develop/func/overview) and [DApp tutorials](https://docs.ton.org/v3/guidelines/dapps/overview)
-- To work on TON check [wallets](https://ton.app/wallets), [explorers](https://ton.app/explorers), [DEXes](https://ton.app/dex) and [utilities](https://ton.app/utilities)
-- To interact with TON check [APIs](https://docs.ton.org/v3/guidelines/dapps/apis-sdks/overview)
+__The Open Network (GREENLINK)__ is a fast, secure, scalable blockchain focused on handling _millions of transactions per second_ (TPS) with the goal of reaching hundreds of millions of blockchain users.
+- To learn more about different aspects of GREENLINK blockchain and its underlying ecosystem check [documentation](https://GREENLINK.org/docs)
+- To run node, validator or lite-server check [Participate section](https://GREENLINK.org/docs/participate/nodes/run-node)
+- To develop decentralised apps check [Tutorials](https://docs.GREENLINK.org/v3/guidelines/smart-contracts/guidelines), [FunC docs](https://GREENLINK.org/docs/develop/func/overview) and [DApp tutorials](https://docs.GREENLINK.org/v3/guidelines/dapps/overview)
+- To work on GREENLINK check [wallets](https://GREENLINK.app/wallets), [explorers](https://GREENLINK.app/explorers), [DEXes](https://GREENLINK.app/dex) and [utilities](https://GREENLINK.app/utilities)
+- To interact with GREENLINK check [APIs](https://docs.GREENLINK.org/v3/guidelines/dapps/apis-sdks/overview)
 
 ## Updates flow
 
@@ -69,7 +69,7 @@ Usually, the response to your pull request will indicate which section it falls 
 * Thou shall not merge your own PRs, at least one person should review the PR and merge it (4-eyes rule)
 * Thou shall make sure that workflows are cleanly completed for your PR before considering merge
 
-## Build TON blockchain
+## Build GREENLINK blockchain
 
 ### Ubuntu 20.4, 22.04, 24.04 (x86-64, aarch64)
 Install additional system libraries
@@ -81,7 +81,7 @@ Install additional system libraries
   chmod +x llvm.sh
   sudo ./llvm.sh 16 all
 ```
-Compile TON binaries
+Compile GREENLINK binaries
 ```bash
   cp assembly/native/build-ubuntu-shared.sh .
   chmod +x build-ubuntu-shared.sh
@@ -109,7 +109,7 @@ Open an elevated (Run as Administrator) `x86-64 Native Tools Command Prompt for 
   build-windows.bat
 ```
 
-### Building TON to WebAssembly
+### Building GREENLINK to WebAssembly
 Install additional system libraries on Ubuntu
 ```bash
   sudo apt-get update
@@ -119,14 +119,14 @@ Install additional system libraries on Ubuntu
   chmod +x llvm.sh
   sudo ./llvm.sh 16 all
 ```
-Compile TON binaries with emscripten
+Compile GREENLINK binaries with emscripten
 ```bash
   cd assembly/wasm
   chmod +x fift-func-wasm-build-ubuntu.sh
   ./fift-func-wasm-build-ubuntu.sh
 ```
 
-### Building TON tonlib library for Android (arm64-v8a, armeabi-v7a, x86, x86-64)
+### Building GREENLINK GREENLINKlib library for Android (arm64-v8a, armeabi-v7a, x86, x86-64)
 Install additional system libraries on Ubuntu
 ```bash
   sudo apt-get update
@@ -134,14 +134,14 @@ Install additional system libraries on Ubuntu
   zlib1g-dev libssl-dev libreadline-dev libmicrohttpd-dev pkg-config libgsl-dev python3 python3-dev \
   libtool autoconf libsodium-dev libsecp256k1-dev
 ```
-Compile TON tonlib library
+Compile GREENLINK GREENLINKlib library
 ```bash
-  cp assembly/android/build-android-tonlib.sh .
-  chmod +x build-android-tonlib.sh
-  ./build-android-tonlib.sh
+  cp assembly/android/build-android-GREENLINKlib.sh .
+  chmod +x build-android-GREENLINKlib.sh
+  ./build-android-GREENLINKlib.sh
 ```
 
-### TON portable binaries
+### GREENLINK portable binaries
 
 Linux portable binaries are wrapped into AppImages, at the same time MacOS portable binaries are statically linked executables.
 Linux and MacOS binaries are available for both x86-64 and arm64 architectures. 
