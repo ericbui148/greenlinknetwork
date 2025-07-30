@@ -2,7 +2,7 @@
   <a href="https://GREENLINK.org">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://GREENLINK.org/download/GREENLINK_logo_dark_background.svg">
-      <img alt="GREENLINK logo" src="https://GREENLINK.org/download/GREENLINK_logo_light_background.svg">
+      <img alt="GREENLINK logo" src="greenlinklogo.png">
     </picture>
   </a>
   <h3>Reference implementation of GREENLINK Node and tools</h3>
